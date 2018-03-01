@@ -131,7 +131,7 @@ function auto_safeconvert() {
         }
         if (a_to_vh == false) {
             var encryptedUrl = Base64.encode(a_to_vi);
-            a_to_ve[i].href = "http://rekosite.epizy.com/2018/02/25/human-need-rest-and-sleep/?url=" + encryptedUrl;
+            a_to_ve[i].href = "http://rekosite.epizy.com/human-need-rest-and-sleep/?url=" + encryptedUrl;
             a_to_ve[i].rel = "nofollow";
             a_to_vb++;
             a_to_vc += i + ":::" + a_to_ve[i].href + "\n";
